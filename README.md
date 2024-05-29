@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Patchaiyappankannan
-- 👀 I’m interested in Software Developer
+- 👀 I’m  Software Developer
 - 🌱 I’m currently learning Front End Developer
 - 📫 How to reach me patchaiyappan26kannan@gmail.com
 
